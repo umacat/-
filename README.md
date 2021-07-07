@@ -1,31 +1,31 @@
 # -   
-                                    Τμήμα Τεχνών Ήχου και Εικόνας
-                                         Ιόνιο Πανεπιστήμιο
+Τμήμα Τεχνών Ήχου και Εικόνας
+Ιόνιο Πανεπιστήμιο
 
-                                    Πρόγραμμα Μεταπτυχιακών Σπουδών 
-                              “Οπτικοακουστικές Τέχνες στην Ψηφιακή Εποχή”
+Πρόγραμμα Μεταπτυχιακών Σπουδών 
+“Οπτικοακουστικές Τέχνες στην Ψηφιακή Εποχή”
 
-                                  Διαδραστικός Ηχητικός Σχεδιασμός
+Διαδραστικός Ηχητικός Σχεδιασμός
 
-                                  Διαδραστικός Ηχητικός Σχεδιασμός:
-                                  Σύνθεση και Ηχογράφηση Ηχοτοπίων
+
+Διαδραστικός Ηχητικός Σχεδιασμός:
+Σύνθεση και Ηχογράφηση Ηχοτοπίων
 
                         
-                                         Αικατερίνη Βελέντζα
+Αικατερίνη Βελέντζα
 
 
- 
-                                          Επιβλέπων Διδάσκων 
-                                            Ιωάννης Ζάννος
+Επιβλέπων Διδάσκων 
+Ιωάννης Ζάννος
 
 
-                                         Κέρκυρα, Ιούνιος 2021
-
-
+Κέρκυρα, Ιούνιος 2021
 
 
 
-                                             Κεντρική Ιδέα
+
+
+ Κεντρική Ιδέα
 
  Η παρούσα εργασία εκπονήθηκε στο μάθημα Διαδραστικός Ηχητικός Σχεδιασμός 
  του μεταπτυχιακού προγράμματος σπουδών “Οπτικοακουστικές Τέχνες στην Ψηφιακή Εποχή”. 
@@ -47,7 +47,7 @@
 
 
  
-                                       Λειτουργία της Επικοινωνίας
+Λειτουργία της Επικοινωνίας
 
 Τα υλικά της επικοινωνίας συμπεριλαμβάνουν τη διεπαφή του ποντικιού και του πληκτρολογίου 
 του ηλεκτρονικού υπολογιστή, οθόνη και ηχεία. Το διαδραστικό περιβάλλον έχει δημιουργηθεί 
@@ -62,7 +62,7 @@
 τις συντεταγμένες του ποντικιού, ενεργοποιείται το αντίστοιχο αντικείμενο αναπαραγωγής ήχου, 
 με fade in και fade out.  
 
-                                          Ερευνητικά Ερωτήματα
+ Ερευνητικά Ερωτήματα
 
  Η κεντρική ιδέα και ο σχεδιασμός της συγκεκριμένης εφαρμογής αποτελούν πηγή των παρακάτω ερευνητικών 
  ερωτημάτων. Εξετάζονται οι δυνατότητες που προκύπτουν κατά τη χρήση ηχητικών δειγμάτων ως πρωτογενές 
@@ -76,7 +76,7 @@
  λευκό θόρυβο, αποτελεί βασικό στοιχείο που οδηγεί στη χαλάρωση. Παρομοίως λειτουργούν και οι υπόλοιποι ήχοι.  
 
 
-                                             Συμπεράσματα
+ Συμπεράσματα
 
  Η απλότητα του αλγορίθμου και του συστήματος επικοινωνίας που χρησιμοποιείται για τον διαδραστικό ηχητικό 
  σχεδιασμό, τη σύνθεση και την ηχογράφηση, καθιστά εύχρηστη την εφαρμογή. Η πρωτότυπη ιδέα αξιοποίησης 
@@ -85,16 +85,16 @@
  των ηχογραφήσεων έγινε βάσει των κατάστάσεων χαλάρωσης που φέρουν. 
 
 
-                                             Βιβλιογραφία 
+ Βιβλιογραφία 
 
-Emerson, L, Ryan,  M. Robertson, J. Benjamin. 2014. The John Hopkins Guide to Digital Media. Johns Hopkins University Press.
+ Emerson, L, Ryan,  M. Robertson, J. Benjamin. 2014. The John Hopkins Guide to Digital Media. Johns Hopkins University Press.
 
-Payne, SR. Davies, WJ. Adams, MD. 2009. “Research into the practical policy applications of
-soundscapes concepts and techniques in urban areas.” The Department for Environment, Food and Rural Affairs.
+ Payne, SR. Davies, WJ. Adams, MD. 2009. “Research into the practical policy applications of
+ soundscapes concepts and techniques in urban areas.” The Department for Environment, Food and Rural Affairs.
 
-Rudi, Joran. 2011. “Soundscape and Listening”. Soundscape in the Arts. Notam. 
+ Rudi, Joran. 2011. “Soundscape and Listening”. Soundscape in the Arts. Notam. 
 
-Schafer, Murray R. 1994. The Soundscape Our Sonic Environment and the Tuning of the World. Rochester, Vermont : Destiny Books.
+ Schafer, Murray R. 1994. The Soundscape Our Sonic Environment and the Tuning of the World. Rochester, Vermont : Destiny Books.
 
 
 
